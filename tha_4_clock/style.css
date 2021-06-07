@@ -4,6 +4,7 @@
   border: 40px solid red;
   width: 355px;
   height: 355px;
+  box-shadow: inset 0px 0px 13px #8f5656;
 }
 
 .hour-hand {
