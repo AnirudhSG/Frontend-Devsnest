@@ -1,0 +1,16 @@
+.maindiv {
+  display: flex;
+  justify-content: end;
+  margin: 0px 100px 500px 100px;
+  border: 12px solid rgb(177, 50, 50);
+  align-content: center;
+  padding-left: 200px;
+}
+.div2 {
+  padding-left: 20px;
+}
+#xyz {
+  text-align: center;
+  position: relative;
+  top: 36px;
+}
