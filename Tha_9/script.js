@@ -1,4 +1,4 @@
-console.log("anirudh")
+
 
 const element=document.querySelectorAll('.p')
 var x=0;
