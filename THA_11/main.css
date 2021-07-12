@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
+.container{
+    margin: auto;
+    height: 700px;
+    width: 350px;
+    background-color:#E7DED3;
+}
+.options{
+    display: flex;
+    flex-direction: column;
+}
+.x{
+    margin: 10px;
+    border:2px solid blue;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    background-color:rgba(176, 194, 212, 0.918);
+}
+.correctans{
+    background-color: lightgreen;
+}
+.wrongans{
+    background-color: rgb(197, 93, 93);
+}
