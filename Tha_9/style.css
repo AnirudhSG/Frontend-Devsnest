@@ -1,0 +1,18 @@
+.flex-cont{
+    display: flex;
+    flex-wrap: wrap;
+    margin:auto;
+    width: 720px;
+    height: 720px;
+    background-color: rgb(248, 249, 250);
+}
+.flex-cont > div{
+  background-color: #fc8686;
+  width: 100px;
+  height: 100px;
+  margin:10px;
+
+}
+.x{
+    background-color: #851b1b !important; 
+}
