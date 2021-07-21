@@ -1,0 +1,28 @@
+.cont{
+    height:250px;
+    width:400px;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    background-color: burlywood;
+    position: absolute;
+    top: 200px;
+    left:400px;
+    box-shadow:20px 20px #e4e2e2;
+
+}
+.container{
+    padding: 10px;
+    border:1px solid black;
+    border-radius: 10px;
+    margin:5px;
+}
+.title{
+    background-color:chocolate;
+    border-radius: 5%;
+}
+h1{
+    position: absolute;
+    top: 120px;
+    left:420px;
+}
