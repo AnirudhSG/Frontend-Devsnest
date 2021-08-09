@@ -1,0 +1,18 @@
+
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box ;
+} 
+.template{
+  display: inline-block ;
+}
+.template image{
+
+  height: 100%;
+  width: 500px;
+}
+.App{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
